@@ -13,7 +13,7 @@
 
 - 🔨 I’m currently working on a **Pinterest Clone Website**
 - 🌱 Currently exploring **React**, **MongoDB (Atlas)**, **Docker**, and **AWS Cloud Services**
-- 📫 Reach me at: **[https://abhijeetbhale.github.io/Portfolio/](https://abhijeetbhale.github.io/Portfolio/)**
+- 📫 Reach me at: **[Portfolio Website](https://abhijeetbhale.github.io/Portfolio/)**
 - 🎯 Fun fact: *Doing coding just for funnnn :)))*
   
 ---
