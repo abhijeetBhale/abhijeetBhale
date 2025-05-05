@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Bhale</h1>
 <h3 align="center">Aspiring Full Stack Developer | Cloud Enthusiast | Photographer</h3>
+<h6 align="center">Hello, I am Abhijeet Bhale, a  Full Stack Software Engineer based in Indore, India. I specialize in developing creative, user-friendly, responsive, and minimalistic websites and web applications using modern technologies. I am passionate about crafting efficient and scalable solutions & collaborative environments. Feel free to connect with me to discuss exciting opportunities or potential collaborations.</h6>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Cloud+%7C+Docker+%7C+DevOps+Learner;Photography+%7C+Design+Lover" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -106,5 +108,8 @@
   <img src="https://komarev.com/ghpvc/?username=abhijeetBhale&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetBhale" />
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=@isocyanideisgood+%7C+@cam_worldd;abhijeetbhale7@gmail.com;Abhijeet+Bhale✌️👨‍💻" alt="Typing SVG" />
+</p>
+
 <!-- Made with ❤️ by Abhijeet Bhale -->
