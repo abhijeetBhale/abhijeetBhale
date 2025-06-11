@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔨 I’m currently working on a **Pinterest Clone Website**
+- 🔨 I’m currently working on a **GitHub Readme Generator Website**
 - 🌱 Currently exploring **React**, **MongoDB (Atlas)**, **Docker**, and **AWS Cloud Services**
 - 📫 Reach me at: **[Portfolio Website](https://abhijeetbhale.github.io/Portfolio/)**
 - 🎯 Fun fact: *Doing coding just for funnnn :)))*
