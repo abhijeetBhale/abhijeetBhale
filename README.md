@@ -6,6 +6,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Cloud+%7C+Docker+%7C+DevOps+Learner;Photography+%7C+Design+Lover" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  <a href="https://github.com/abhijeetBhale/Portfolio/blob/6bb27e4bc220b09db54cb01daa7fa4714e3484b9/assets/Abhijeet%20Bhale%20Resume%20Updated%201.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download Resume">
+  </a>
+</div>
+
 
 ---
 
@@ -15,6 +21,7 @@
 - 🌱 Currently exploring **React**, **MongoDB (Atlas)**, **Docker**, and **AWS Cloud Services**
 - 📫 Reach me at: **[Portfolio Website](https://abhijeetbhale.github.io/Portfolio/)**
 - 🎯 Fun fact: *Doing coding just for funnnn :)))*
+
   
 ---
 
