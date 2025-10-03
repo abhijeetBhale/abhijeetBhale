@@ -7,10 +7,11 @@
 </p>
 
 <div align="center">
-  <a href="[https://github.com/abhijeetBhale/Portfolio/blob/6bb27e4bc220b09db54cb01daa7fa4714e3484b9/assets/Abhijeet%20Bhale%20Resume%20Updated%201.pdf](https://github.com/abhijeetBhale/Portfolio/blob/68117ed6c8be9339df6d9f1975d61537b6849df3/assets/Abhijeet%20Bhale%20Resume%20Updated%20300925.pdf)" target="_blank">
+  <a href="https://github.com/abhijeetBhale/Portfolio/raw/68117ed6c8be9339df6d9f1975d61537b6849df3/assets/Abhijeet%20Bhale%20Resume%20Updated%20300925.pdf" download="Abhijeet_Bhale_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download Resume">
   </a>
 </div>
+
 
 
 ---
